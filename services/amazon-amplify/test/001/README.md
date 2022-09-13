@@ -1,7 +1,7 @@
 # aws/Amazon Web Services
 
 Created: *Tue 13th Sep 06:16 AM GMT*   
-Updated: *Tue 13th Sep 14:57 PM GMT*
+Updated: *Tue 13th Sep 19:54 PM GMT*
 
 -----
 
@@ -32,6 +32,10 @@ which allowed me to select exactly which folder to display(so, no need for 'redi
 much to my own surprise, I was given a much 'shorter' URL address this time.
 
 - https://main.d22c176g16rd67.amplifyapp.com/ (130922 19:29 PM GMT/Current)    
+
+-(PS: I noticed, too, that with each new deployment...;   
+inside of the Amazon 'billings' section...my a/c. is getting charged...;      
+got to 'watch' that particular section of their site really very carefully.)-   
 
 -----
 

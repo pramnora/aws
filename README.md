@@ -8,6 +8,10 @@ Surfing the net, as usual, I came across the following, Amazon Amplify:
 
 https://us-west-2.console.aws.amazon.com/amplify/home?code=9e4129050d9036217099&installation_id=29168200&setup_action=install&region=us-west-2#/  
 
+-----
+
+TEST 1/CONNECT TO A GITHUB HOSTED PAGE/YES, WORKED
+
 Did a test using Amazon Amplify...created an 'index.html' file...then, deployed it, successfully.
 
 The URL address given to me by Amazon is...
@@ -24,6 +28,15 @@ The reply was aws, successfully, deleted.
 
 (But, I might need to get that confirmed.)
 
+-----
+
+TEST 1/CONNECT...THEN, MAKE CHANGES TO THE GITHUB HOSTED PAGE...TO SEE IF THOSE CHANGES ARE REFLECTED, IMMEDIATELY, IN THE AMAZON AMPLIFY LINK?
+
+This is the new URL address I was given...
+
+- https://main.d1vxf8kplkvgt0.amplifyapp.com/
+
+...about to go and change my [index.html] page within GitHub...; then, go and check if the new URL reflects back those changes...? 
 
 
 

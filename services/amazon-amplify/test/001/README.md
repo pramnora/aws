@@ -15,9 +15,9 @@ TEST 1/CONNECT TO A GITHUB HOSTED PAGE/YES, WORKED
 
 Did a test using Amazon Amplify...created an 'index.html' file...then, deployed it, successfully.
 
-The URL address given to me by Amazon is...
+The URL address given to me by Amazon was...
 
-- https://main.d2zb3c0jzrj0bf.amplifyapp.com/  
+- https://main.d2zb3c0jzrj0bf.amplifyapp.com/  (130922/deleted)  
 
 *NOTE*: I clicked on the above/and, it works!
 
@@ -35,7 +35,7 @@ TEST 2/CONNECT...THEN, MAKE CHANGES TO THE GITHUB HOSTED PAGE...TO SEE IF THOSE 
 
 This is the new URL address I was given...
 
-- https://main.d1vxf8kplkvgt0.amplifyapp.com/
+- https://main.d1vxf8kplkvgt0.amplifyapp.com/ (130922/deleted)  
 
 ...about to go and change my [index.html] page within GitHub...; then, go and check if the new URL reflects back those changes...? 
 

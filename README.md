@@ -46,12 +46,37 @@ What is AWS | AWS in 10 Minutes | AWS Tutorial For Beginners | AWS Training | Ed
 Top 50+ AWS Services Explained in 10 Minutes - (YouTube Channel: Fireship)  
 - https://www.youtube.com/watch?v=JIbIYCM48to   
 
+Introduction to AWS Services - (YouTube Channel: AWS Training Center)
+- https://www.youtube.com/watch?v=Z3SYDTMP3ME  
+
+Introduction to AWS Networking - (YouTube Channe: AWS Training Center)  
+- https://www.youtube.com/watch?v=XZbvQWkpJTI  
+
+- 
+
+-----
+
+#### Certifications  
+
+AWS Cloud Practitioner | AWS Certified Cloud Practitioner - Full Course | AWS Training | Edureka (YouTube Channel: Edureka)   
+- https://www.youtube.com/watch?v=XjPUyGKRjZs&t=3s  
+
 ----- 
 
 #### Virtual Private Cloud  
 
 AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial - (YouTubeChannel: freeCodeCamp.org)  
 - https://www.youtube.com/watch?v=g2JOHLHh4rI  
+
+AWS VPC Basics - Understanding what is VPC and Calculating CIDR for VPC and Subnets - (YouTube Channel: AWS Training Center)  
+- https://www.youtube.com/watch?v=O3fgul-fJCk  
+
+-----
+
+#### Storage  
+
+AWS Storage - EBS vs S3 vs EFS - (YouTube Channel: AWS Training Centre)   
+- https://www.youtube.com/watch?v=6vNC_BCqFmI  
 
 -----
 

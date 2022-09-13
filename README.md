@@ -120,14 +120,28 @@ Containers on AWS Overview: ECS | EKS | Fargate | ECR - (YouTube Channel: TechWo
 Amazon Web Services - EC2 Server Setup - Free Server for 1 Year - (YouTube Channel: RAS Web Design)    
 - https://www.youtube.com/watch?v=HfnIL5lM8WY  
 
+----- 
+
 #### Elastic Beanstalk
 
 Introduction to AWS Elastic Beanstalk - (YouTube Channel: AWS Web Services)  
 - https://www.youtube.com/watch?v=SrwxAScdyT0  
 
+AWS Elastic Beanstalk Tutorial | What Is AWS Elastic Beanstalk | AWS Tutorial | Intellipaat - (YouTube Channel: Intellipaat)  
+- https://www.youtube.com/watch?v=rqnXNq_DQi0  
+
+AWS Elastic Beanstalk Tutorial | AWS Certification | AWS Tutorial | Edureka (YouTube Channel: Edureka)  
+- https://www.youtube.com/watch?v=96DJ2Og90hU  
+
 -----
 
 #### Storage  
+
+AWS S3 Tutorial For Beginners | AWS Certified Solutions Architect Tutorial | AWS Training | Edureka - (YouTube Channel: Edureka)  
+- https://www.youtube.com/watch?v=qaAllMDf_rs&t=4212s  
+
+AWS S3 Tutorial For Beginners | AWS S3 Bucket Tutorial | AWS Training | Edureka  - (YouTube Channel: Edureka)  
+- https://www.youtube.com/watch?v=9HsEMyKrlnw  
 
 AWS Storage - EBS vs S3 vs EFS - (YouTube Channel: AWS Training Centre)   
 - https://www.youtube.com/watch?v=6vNC_BCqFmI  

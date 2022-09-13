@@ -1,0 +1,38 @@
+/*
+  Stylesheet for: Paul Ramnora Web - [Amazon Amplify: 001]
+
+  Created: 13 Sep 2022 17:21 PM GMT
+  Updated: 13 Sep 2022 17:21 PM GMT
+*/
+
+/* links */
+
+a:link{color:blue;text-decoration:none;}
+a:active{color:yellow;}
+a:hover{color:red;text-decoration:underline;}
+a:visited{color:purple;}
+
+/* html */
+
+html{margin:1in;}
+
+/* body */
+
+body{font-family:arial,verdana,sans-serif;}
+
+/*header */
+
+header{text-align:center;}
+h1{background-color:black;color:white;}
+
+/* main */
+
+main{}
+main p{text-indent:1cm;} 
+h2{font-style:italic;}
+
+/* footer *?
+
+footer{text-align:center;}
+.clsCopyrightMessage{font-weight:bold;background-color:black;color:white;} 
+.clsDateTimeStamp{color:red;font-style:italic;} 

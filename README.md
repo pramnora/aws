@@ -85,8 +85,9 @@ SNS vs SQS Comparison? Whats the difference? | Learn with a practical example - 
 Amazon Amplify Studio/(plus, introductory video)...
 - https://aws.amazon.com/amplify/studio/
 
-#### Certifications  
+-----
 
+#### Certifications  
 
 AWS Cloud Practitioner | AWS Certified Cloud Practitioner - Full Course | AWS Training | Edureka (YouTube Channel: Edureka)   
 - https://www.youtube.com/watch?v=XjPUyGKRjZs&t=3s  

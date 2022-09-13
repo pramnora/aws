@@ -36,3 +36,27 @@ What is AWS | AWS in 10 Minutes | AWS Tutorial For Beginners | AWS Training | Ed
 Top 50+ AWS Services Explained in 10 Minutes - (YouTube Channel: Fireship)  
 - https://www.youtube.com/watch?v=JIbIYCM48to   
 
+----- 
+
+#### Virtual Private Cloud  
+
+AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial - (YouTubeChannel: freeCodeCamp.org)  
+- https://www.youtube.com/watch?v=g2JOHLHh4rI  
+
+-----
+
+#### Containers  
+
+Containers on AWS Overview: ECS | EKS | Fargate | ECR - (YouTube Channel: TechWorld with Nana)  
+- https://www.youtube.com/watch?v=AYAh6YDXuho  
+
+-----
+
+#### Comparisons  
+
+AWS vs Azure vs GCP | Amazon Web Services vs Microsoft Azure vs Google Cloud Platform | Intellipaat - (YouTube Channel: Intellipaat)  
+- https://www.youtube.com/watch?v=n24OBVGHufQ  
+
+
+
+

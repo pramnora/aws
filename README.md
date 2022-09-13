@@ -52,4 +52,8 @@ Once more, I deleted the 'aws' instance. (Hoping to save any charges occurring.)
 
 Initial testing done. ;-)
 
+The only question going through my mind now is...; how much would it cost to keep the Amazon Amplify web server running, constantly?
+
+I suppose, the only answer to that is...do it...and, then, find out...???
+
 

@@ -115,6 +115,18 @@ Containers on AWS Overview: ECS | EKS | Fargate | ECR - (YouTube Channel: TechWo
 
 -----
 
+#### EC2 Server
+
+Amazon Web Services - EC2 Server Setup - Free Server for 1 Year - (YouTube Channel: RAS Web Design)    
+- https://www.youtube.com/watch?v=HfnIL5lM8WY  
+
+#### Elastic Beanstalk
+
+Introduction to AWS Elastic Beanstalk - (YouTube Channel: AWS Web Services)  
+- https://www.youtube.com/watch?v=SrwxAScdyT0  
+
+-----
+
 #### Storage  
 
 AWS Storage - EBS vs S3 vs EFS - (YouTube Channel: AWS Training Centre)   

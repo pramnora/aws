@@ -2,7 +2,7 @@
   Stylesheet for: Paul Ramnora Web - [Amazon Amplify: 001]
 
   Created: 13 Sep 2022 17:21 PM GMT
-  Updated: 13 Sep 2022 17:37 PM GMT
+  Updated: 13 Sep 2022 17:42 PM GMT
 */
 
 /* links */
@@ -24,6 +24,7 @@ body{font-family:arial,verdana,sans-serif;}
 
 header{text-align:center;padding:10px;}
 h1{background-color:black;color:white;}
+.clsH1TitleTextWeb{text-shadow:2px 2px black;}
 
 /* main */
 

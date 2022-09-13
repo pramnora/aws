@@ -1,5 +1,4 @@
-# aws
-aws - Amazon Web Services
+# aws/Amazon Web Services
 
 Created: *Tue 13th Sep 06:16 AM GMT*   
 Updated: *Tue 13th Sep 14:58 PM GMT*

@@ -17,13 +17,23 @@ or else, forgot to immediately pull down any *test* services which you've gone a
 
 ## LINKS
 
-### AWS
+## Web Sites
+
+### AWS/Amazon Web Services - main web site  
 
 - https://aws.amazon.com/  
+
+-----
+
+## Articles
 
 ### Wikipedia article
 
 - https://en.wikipedia.org/wiki/Amazon_Web_Services
+
+-----
+
+## Videos
 
 ### YouTube videos
 

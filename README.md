@@ -4,9 +4,11 @@ aws
 Created: Tue 13th Sep 06:16 AM GMT   
 Updated: Tue 13th Sep 06:16 AM GMT
 
-Surfing the net, as usual, I came across the following, Amazon Amplify:
+Surfing the net, as usual, I came across the following, Amazon Amplify link:
 
 https://us-west-2.console.aws.amazon.com/amplify/home?code=9e4129050d9036217099&installation_id=29168200&setup_action=install&region=us-west-2#/  
+
+...which makes it possible...in just a few clicks to connect a GitHub repo...to Amazon Web Services...Amazon Amplify web site hosting platform.
 
 -----
 

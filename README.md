@@ -50,6 +50,12 @@ Top 50+ AWS Services Explained in 10 Minutes - (YouTube Channel: Fireship)
 AWS Tutorial For Beginners | AWS Certified Solutions Architect | AWS Training | Edureka - (YouTube Channel: Edureka)   
 - https://www.youtube.com/watch?v=IT1X42D1KeA&t=2416s  
 
+Getting Started with AWS | Amazon Web Services BASICS - (YouTube Channel: Academind)  
+- https://www.youtube.com/watch?v=ubCNZRNjhyo  
+
+AWS Training | AWS Tutorial For Beginners | Intellipaat - (YouTube Channel: Intellipaat)  
+- https://www.youtube.com/watch?v=IT1X42D1KeA&t=2416s  
+
 ### YouTube Channel: AWS Training Center
 
 Introduction to AWS Services - (YouTube Channel: AWS Training Center)
@@ -71,11 +77,6 @@ React App on AWS S3 with Static Hosting + Cloudfront | Practical AWS Projects #1
 
 SNS vs SQS Comparison? Whats the difference? | Learn with a practical example - (YouTube Channel: Be A Better Dev)  
 - https://www.youtube.com/watch?v=mXk0MNjlO7A  
-
------
-
-AWS Training | AWS Tutorial For Beginners | Intellipaat - (YouTube Channel: Intellipaat)  
-- https://www.youtube.com/watch?v=IT1X42D1KeA&t=2416s  
 
 -----
 

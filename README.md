@@ -1,7 +1,8 @@
 # aws/Amazon Web Services
 
 Amazon, has **a lot** of different web services...; all of which I would really *love* to go and learn;        
-however, bearing in mind, that they have so *many* services to go and study...;  
+however, bearing in mind, that they have so *many* services to go and study...;    
+-(plus, with many more services being newly created, constantly, all the time)-;     
 therefore, I'm sure, that job is going to take a me a very long LONG time still to come.      
 
 On top of this is the fact that using *any* of the **cloud based** platforms which include   

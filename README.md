@@ -66,5 +66,9 @@ I suppose, the only answer to that is...do it...and, then, find out...???
 ### YouTube Videos...
 
 What is AWS Amplify  - (YouTube Channel: Hitesh Choudary)  
-https://www.youtube.com/watch?v=QlWtERFpKNU  
+- https://www.youtube.com/watch?v=QlWtERFpKNU  
+
+AWS Amplify For Beginners - (YouTube Channel: Andrew Christofferson)    
+- https://www.youtube.com/watch?v=onJta3J8814     
+
 

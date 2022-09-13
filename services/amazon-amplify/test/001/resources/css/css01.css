@@ -24,7 +24,7 @@ body{font-family:arial,verdana,sans-serif;}
 
 header{text-align:center;padding:10px;background-color:rgba(255,255,0,1.0);}
 h1{background-color:black;color:white;}
-.clsH1TitleTextWeb{text-shadow:2px 2px black;}
+.clsH1TitleTextWeb{text-shadow:2px 2px black;font-style:italic;}
 
 /* main */
 

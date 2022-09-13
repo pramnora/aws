@@ -85,6 +85,21 @@ SNS vs SQS Comparison? Whats the difference? | Learn with a practical example - 
 Amazon Amplify Studio/(plus, introductory video)...
 - https://aws.amazon.com/amplify/studio/
 
+What is AWS Amplify  - (YouTube Channel: Hitesh Choudary)  
+- https://www.youtube.com/watch?v=QlWtERFpKNU  
+
+AWS Amplify For Beginners - (YouTube Channel: Andrew Christofferson)    
+- https://www.youtube.com/watch?v=onJta3J8814     
+
+What is AWS Amplify? Pros and Cons? - (YouTube Channel: Be A Better Dev)  
+- https://www.youtube.com/watch?v=HkbjHtG_d7w  
+
+Is AWS Amplify better than the Serverless Framework? - (YouTube Channel: Complete Coding)  
+- https://www.youtube.com/watch?v=e0DW_ZnWHjg  
+
+AWS Amplify: Adding a RESTful backend to reactjs - (YouTube Channel:  Focus Otter)  
+- https://www.youtube.com/watch?v=A2LXm9TZJck  
+
 -----
 
 #### Certifications  

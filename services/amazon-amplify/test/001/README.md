@@ -61,7 +61,8 @@ The only question going through my mind now is...; how much would it cost to kee
 
 I suppose, the only answer to that is...do it...and, then, find out...???
 
-- https://main.d21gfxm7js0hdc.amplifyapp.com/services/amazon-amplify/test/001/index.html  
+- https://main.d21gfxm7js0hdc.amplifyapp.com/services/amazon-amplify/test/001/index.html (130922 16:58 PM GMT/Deleted)  
+- https://main.d22c176g16rd67.amplifyapp.com/ (130922 19:29 PM GMT/Current)    
 
 -----
 

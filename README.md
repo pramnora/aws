@@ -30,7 +30,7 @@ The reply was aws, successfully, deleted.
 
 -----
 
-TEST 1/CONNECT...THEN, MAKE CHANGES TO THE GITHUB HOSTED PAGE...TO SEE IF THOSE CHANGES ARE REFLECTED, IMMEDIATELY, IN THE AMAZON AMPLIFY LINK?
+TEST 1/CONNECT...THEN, MAKE CHANGES TO THE GITHUB HOSTED PAGE...TO SEE IF THOSE CHANGES ARE REFLECTED, IMMEDIATELY, IN THE AMAZON AMPLIFY LINK? ANSWER: YES/BUT, NOT INSTANTLY...TAKES A FEW MINUTES FOR THE CHANGES TO PROPOGATE
 
 This is the new URL address I was given...
 
@@ -38,5 +38,16 @@ This is the new URL address I was given...
 
 ...about to go and change my [index.html] page within GitHub...; then, go and check if the new URL reflects back those changes...? 
 
+I tried clicking the web browers [refresh] button, repeately...for, around at least 1 minute...and, not change appeared. 
+
+Then, I walked downstairs to go let the cat out...clean out the dish she had just eaten from.
+
+When, I came back upstairs, and, again, hit the web browser [refresh] button...; this time the changes worked.
+
+Once more, I deleted the 'aws' instance. (Hoping to save any charges occurring.)
+
+-----
+
+Initial testing done. ;-)
 
 

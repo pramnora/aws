@@ -1,8 +1,8 @@
 # aws
-aws
+aws - Amazon Web Services
 
 Created: *Tue 13th Sep 06:16 AM GMT*   
-Updated: *Tue 13th Sep 07:46 AM GMT*
+Updated: *Tue 13th Sep 14:58 PM GMT*
 
 Surfing the net, as usual, I came across the following, Amazon Amplify link:
 

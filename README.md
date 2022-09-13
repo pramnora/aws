@@ -32,7 +32,7 @@ The reply was aws, successfully, deleted.
 
 -----
 
-TEST 1/CONNECT...THEN, MAKE CHANGES TO THE GITHUB HOSTED PAGE...TO SEE IF THOSE CHANGES ARE REFLECTED, IMMEDIATELY, IN THE AMAZON AMPLIFY LINK? ANSWER: YES/BUT, NOT INSTANTLY...TAKES A FEW MINUTES FOR THE CHANGES TO PROPOGATE
+TEST 2/CONNECT...THEN, MAKE CHANGES TO THE GITHUB HOSTED PAGE...TO SEE IF THOSE CHANGES ARE REFLECTED, IMMEDIATELY, IN THE AMAZON AMPLIFY LINK? ANSWER: YES/BUT, NOT INSTANTLY...TAKES A FEW MINUTES FOR THE CHANGES TO PROPOGATE
 
 This is the new URL address I was given...
 
@@ -48,11 +48,14 @@ When, I came back upstairs, and, again, hit the web browser [refresh] button...;
 
 Once more, I deleted the 'aws' instance. (Hoping to save any charges occurring.)
 
+REPORT
+
+2 initial tests all done.../with everything having completed successfully. ;-)
+
 -----
 
-Initial testing done. ;-)
 
-The only question going through my mind now is...; how much would it cost to keep the Amazon Amplify web server running, constantly?
+The only question going through my mind now is...; how much would it cost to keep the Amazon Amplify web server up and running, constantly?
 
 I suppose, the only answer to that is...do it...and, then, find out...???
 

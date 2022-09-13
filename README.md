@@ -80,6 +80,11 @@ SNS vs SQS Comparison? Whats the difference? | Learn with a practical example - 
 
 -----
 
+#### Amazon Amplify
+
+Amazon Amplify Studio/(plus, introductory video)...
+- https://aws.amazon.com/amplify/studio/
+
 #### Certifications  
 
 

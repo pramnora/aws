@@ -74,6 +74,11 @@ SNS vs SQS Comparison? Whats the difference? | Learn with a practical example - 
 
 -----
 
+AWS Training | AWS Tutorial For Beginners | Intellipaat - (YouTube Channel: Intellipaat)  
+- https://www.youtube.com/watch?v=IT1X42D1KeA&t=2416s  
+
+-----
+
 #### Certifications  
 
 

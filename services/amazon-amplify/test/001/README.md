@@ -1,7 +1,7 @@
 # aws/Amazon Web Services
 
 Created: *Tue 13th Sep 06:16 AM GMT*   
-Updated: *Tue 13th Sep 14:58 PM GMT*
+Updated: *Tue 13th Sep 14:57 PM GMT*
 
 Surfing the net, as usual, I came across the following, Amazon Amplify link:
 
@@ -53,10 +53,15 @@ REPORT
 
 -----
 
+Tue Sep 2020 16:58 AM GMT 
+
+TEST 3/PUT UP A WEB SITE ON AMAZON..AND, THEN, KEEP IT RUNNING - (HAVE TO, CAREFULLY, WATCH THE COSTS...?!)
 
 The only question going through my mind now is...; how much would it cost to keep the Amazon Amplify web server up and running, constantly?
 
 I suppose, the only answer to that is...do it...and, then, find out...???
+
+- https://main.d21gfxm7js0hdc.amplifyapp.com/services/amazon-amplify/test/001/index.html  
 
 -----
 

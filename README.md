@@ -47,6 +47,9 @@ What is AWS | AWS in 10 Minutes | AWS Tutorial For Beginners | AWS Training | Ed
 Top 50+ AWS Services Explained in 10 Minutes - (YouTube Channel: Fireship)  
 - https://www.youtube.com/watch?v=JIbIYCM48to   
 
+AWS Tutorial For Beginners | AWS Certified Solutions Architect | AWS Training | Edureka - (YouTube Channel: Edureka)   
+- https://www.youtube.com/watch?v=IT1X42D1KeA&t=2416s  
+
 Introduction to AWS Services - (YouTube Channel: AWS Training Center)
 - https://www.youtube.com/watch?v=Z3SYDTMP3ME  
 
@@ -68,6 +71,7 @@ SNS vs SQS Comparison? Whats the difference? | Learn with a practical example - 
 -----
 
 #### Certifications  
+
 
 AWS Cloud Practitioner | AWS Certified Cloud Practitioner - Full Course | AWS Training | Edureka (YouTube Channel: Edureka)   
 - https://www.youtube.com/watch?v=XjPUyGKRjZs&t=3s  

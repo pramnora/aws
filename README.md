@@ -71,4 +71,7 @@ What is AWS Amplify  - (YouTube Channel: Hitesh Choudary)
 AWS Amplify For Beginners - (YouTube Channel: Andrew Christofferson)    
 - https://www.youtube.com/watch?v=onJta3J8814     
 
+What is AWS Amplify? Pros and Cons? - (YouTubeChannel: Be A Better Dev)  
+- https://www.youtube.com/watch?v=HkbjHtG_d7w  
+
 

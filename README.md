@@ -52,7 +52,17 @@ Introduction to AWS Services - (YouTube Channel: AWS Training Center)
 Introduction to AWS Networking - (YouTube Channe: AWS Training Center)  
 - https://www.youtube.com/watch?v=XZbvQWkpJTI  
 
-- 
+The Most Important AWS Core Services That You NEED To Know About! - (YouTube Channel: Be A Better Dev)  
+- https://www.youtube.com/watch?v=B08iQQhXG1Y  
+
+Practical Projects to Learn AWS - (YouTube Channel: Be A Better Dev)  
+- https://www.youtube.com/watch?v=06VgLTqNvU8  
+
+React App on AWS S3 with Static Hosting + Cloudfront | Practical AWS Projects #1 - (YouTube Channel: Be A Better Dev)  
+- https://www.youtube.com/watch?v=mls8tiiI3uc  
+
+SNS vs SQS Comparison? Whats the difference? | Learn with a practical example - (YouTube Channel: Be A Better Dev)  
+- https://www.youtube.com/watch?v=mXk0MNjlO7A  
 
 -----
 
@@ -61,15 +71,32 @@ Introduction to AWS Networking - (YouTube Channe: AWS Training Center)
 AWS Cloud Practitioner | AWS Certified Cloud Practitioner - Full Course | AWS Training | Edureka (YouTube Channel: Edureka)   
 - https://www.youtube.com/watch?v=XjPUyGKRjZs&t=3s  
 
+-----
+
+### Cloudformation
+
+What is AWS Cloudformation? Pros and Cons?  - (YouTube Channel: Be A Better Dev)  
+- https://www.youtube.com/watch?v=0Sh9OySCyb4  
+
+AWS Cloudformation Step by Step Tutorial - Create a DynamoDB Table! - (YouTube Channel: Be A Better Dev)  
+- https://www.youtube.com/watch?v=YXVCdGyHDSk  
+
+Introduction to AWS CloudFormation - (YouTube Channel: AWS Web Services)  
+- https://www.youtube.com/watch?v=Omppm_YUG2g   
+
+-----
+
+#### Comparisons  
+
+AWS vs Azure vs GCP | Amazon Web Services vs Microsoft Azure vs Google Cloud Platform | Intellipaat - (YouTube Channel: Intellipaat)  
+- https://www.youtube.com/watch?v=n24OBVGHufQ  
+
 ----- 
 
-#### Virtual Private Cloud  
+#### Containers  
 
-AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial - (YouTubeChannel: freeCodeCamp.org)  
-- https://www.youtube.com/watch?v=g2JOHLHh4rI  
-
-AWS VPC Basics - Understanding what is VPC and Calculating CIDR for VPC and Subnets - (YouTube Channel: AWS Training Center)  
-- https://www.youtube.com/watch?v=O3fgul-fJCk  
+Containers on AWS Overview: ECS | EKS | Fargate | ECR - (YouTube Channel: TechWorld with Nana)  
+- https://www.youtube.com/watch?v=AYAh6YDXuho  
 
 -----
 
@@ -80,17 +107,15 @@ AWS Storage - EBS vs S3 vs EFS - (YouTube Channel: AWS Training Centre)
 
 -----
 
-#### Containers  
+#### Virtual Private Cloud  
 
-Containers on AWS Overview: ECS | EKS | Fargate | ECR - (YouTube Channel: TechWorld with Nana)  
-- https://www.youtube.com/watch?v=AYAh6YDXuho  
+AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial - (YouTubeChannel: freeCodeCamp.org)  
+- https://www.youtube.com/watch?v=g2JOHLHh4rI  
+
+AWS VPC Basics - Understanding what is VPC and Calculating CIDR for VPC and Subnets - (YouTube Channel: AWS Training Center)  
+- https://www.youtube.com/watch?v=O3fgul-fJCk  
 
 -----
-
-#### Comparisons  
-
-AWS vs Azure vs GCP | Amazon Web Services vs Microsoft Azure vs Google Cloud Platform | Intellipaat - (YouTube Channel: Intellipaat)  
-- https://www.youtube.com/watch?v=n24OBVGHufQ  
 
 
 

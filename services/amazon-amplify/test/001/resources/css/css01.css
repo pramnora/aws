@@ -39,7 +39,7 @@ main{padding:1cm;}
 main p{text-indent:1cm;} 
 h2{padding:10px;}
 
-.clsNote{border:1px dashed black;background-color:rgba(255,0,0,0.1);}
+.clsNote{border:1px dashed black;background-color:rgba(255,0,0,0.1);text-align:center;}
 
 /* footer */
 

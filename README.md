@@ -88,6 +88,9 @@ Amazon Amplify Studio/(plus, introductory video)...
 Figma to Code | Build a Fullstack App with AWS Amplify Studio | Amazon Web Services - (YouTube Channel: Amazon Web Services)  
 - https://www.youtube.com/watch?time_continue=402&v=kGvVG3hjpTU&feature=emb_logo   
 
+Working with Data in DynamoDB from React with AWS Amplify - Full tutorial - (YouTube Channel: Complete Coding)  
+- https://www.bing.com/videos/search?q=amazon+amplify+studio&&view=detail&mid=C3DC3EC353134A29E7A6C3DC3EC353134A29E7A6&&FORM=VDRVSR  
+
 What is AWS Amplify  - (YouTube Channel: Hitesh Choudary)  
 - https://www.youtube.com/watch?v=QlWtERFpKNU  
 

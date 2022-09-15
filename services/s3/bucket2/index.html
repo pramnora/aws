@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+ <head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <title>Test web page</title> 
+
+  <style>
+
+   /* page re-set */
+
+   *{padding:0px;margin:0px;}
+
+   /* links */
+
+   a:link{color:blue;text-decoration:none;}   
+   a:active{color:yellow;}
+   a:hover{color:red;text-decoration:underline;}
+   a:visited{color:purple;}
+
+   /* html */
+
+   html{background-color:black;}
+
+   /* body */
+
+   body{font-family:arial,verdana,sans-serif;line-height:1.5em;}
+
+   /* header */
+
+   header{padding:50px;text-align:center;background-color:gray;color:white;;}
+   h1{text-align:center;background-color:black;color:white;width:50%;margin:auto;padding:50px;}
+   h2{padding:10px;background-color:siver;color:gray;}
+   .clsH1TitleTextAmazonS3{color:yellow;}
+
+   /* main */
+
+   main{background-color:white;color:black;padding:1cm;}
+   main p{text-indent:1cm;}
+   main ul{padding:10px;margin:10px;border:1px dashed black;background-color:rgba(255,255,0,0.1);list-style-type:none;}
+   main ul li::before{content:">> ";}
+
+   /* footer */
+
+   footer{padding:25px;text-align:center;background-color:gray;}
+   footer p{background-color:pink;color:black;width:50%;margin:auto;padding:10px;}
+   .clsCopyrightMessage{background-color:black;color:white;font-weight:bold;border-radius:10px;padding:3px;}
+   .clsDateTimeStamp{color:red;font-style:italic;}
+
+  </style>
+
+ </head>
+
+ <body>
+
+  <header>
+
+   <h1>
+    Paul Ramnora Web - [<span class="clsH1TitleTextAmazonS3">Amazon S3</span>]
+   </h1>
+
+  </header>
+
+  <main>
+
+   <h2>Introduction</h2>
+   <p>This is my first Amazon s3 web site.</p> 
+   <h2>Web site creation process</h2>
+   <p>Creating it was really pretty straight forwards...</p>
+   <ul>
+    <li>Go to the Amazon console: <a href="https://aws.amazon.com">aws.amazon.com</a></li>
+    <li>Select service: S3</li>
+    <li>Give the bucket a name</li>
+    <li>Choose access control...in the case of a public web site, turn off option private.</li>
+    <li>Add a couple of tags: name/value used to ID the bucket with</li>
+    <li>Next, select option: [Create bucket]</li>
+    <li>Once the bucket has been created...select it from the list...and, upload web page file/(s): [index.html]</li>
+    <li>Choose Presigned URL...and, set the URL to expire in 12 hours time.</li>
+    <li>Finally, click option: [Open]; and, the web browser will display your brand 'new' web page.</li>
+   </ul>
+  </main>
+
+  <footer>
+
+   <p>
+    Email: 
+    <a href="mailto:pramnora@yahoo.com">
+     pramnora@yahoo.com
+    </a>
+    <br>
+    <span class="clsCopyrightMessage">
+     &copy;2022, Mr. Paul Ramnora./All rights reserved.
+    </span>
+    <br>
+    Page created: 
+    <span class="clsDateTimeStamp">
+     Thu 15 Sep 2020 14:55 PM GMT 
+    </span>
+    <br>
+    Last updated: 
+    <span class="clsDateTimeStamp">
+     Thu 15 Sep 2020 15:59 PM GMT 
+    </span>
+   </p>
+
+  </footer>
+
+ </body>
+
+</html>

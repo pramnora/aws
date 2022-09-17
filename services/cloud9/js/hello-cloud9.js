@@ -6,7 +6,10 @@
        until I checked...and, discovered 2 wrong things...
        1. this is Linux platform...; therefore, files need to be given permission to run: chmod 744 hello-cloud9.js
        2. Unfortunately, my code was copied in wrong...and, contained a bug...where I forgot to close the if block with a corresponding }
-       ...however, once, all bugs were fixed; then, the code ran perfectly fine.  
+       ...however, once, all bugs were fixed; then, the code ran perfectly fine.
+       
+ Programming language is: Javascript.   
+ User Instructions: One can right click on the file...; then, just hit: Run  
       
  Created: Sat 17 Sep 2022 18:34 PM GMT
  Created: Sat 17 Sep 2022 18:34 PM GMT

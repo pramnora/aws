@@ -33,19 +33,20 @@ nor would it retrieve any linked to web page, neither.
 - https://pmr-public-1.s3.eu-west-2.amazonaws.com/websites/001/index.html?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGIaCWV1LXdlc3QtMiJGMEQCIEx7HR42sQCTcG7pyzUWhJEYTpc3bRajH2JzWp7B1qxUAiAgkcG68Sv6sH2%2BIIwnRmaxN4lJt3A%2Bjl%2BLM51orWfbzSqeAgj7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAQaDDIyMjcwMzMxODEwOCIMXBZOn56i9mo%2B0sLHKvIBC%2Be0yeUuM%2Bz3pOBiZB%2FvRL06izSW6L8Y0hifrAYoI%2FbtG%2FvT8nUiyGBVbtGINrPnkptRmHDOftxwuaKB1GPmJuXItQoGZAzKnQmboobSGv7nzaGYYnyqRVWJyhshpPrvFBUQx8qWhnVMOaiYsmXkWJ5n94SiTC%2FVX%2FG%2FDbGHtrEk3%2Bqa81HZDMrzAj7adqXJeBRVM5l60uCcbm%2FBqpNUYKi5q12wq5qw2I%2FUw4tFfmqX0S73n2efNmFsIKsqqS67SBmaXiLwtSMf9YHy%2F5j66Op%2BDtZCPD%2FU0prwo6E5OyNKIf1JXuG5zv7j8ZZvUySz8qcwhbyUmQY64AHgSLkSqDyMCh8s4F0r8vLMqaLF54XRIfVI1VwPSt3o46vz7MRWCFdGaHENJyT72ksSWfLlH%2BkXavor%2FbRZu4cX0B4OZbNH4bXLT5DJBhzloBDXkHh06xjZi9RR8giLPwV7QrwoCFc%2Fq8%2FMKXklIap2J1OpPiUcrYyAMNwBpIR8vzEGXtF7TRnrKxm07%2BR79mJBrjXPTRwN1RuAedgWM7HqpXrYjmyae1RmWPiQRQxZ3Q2kfNVk0qsJqy%2F2%2BNfteT3EEJ8Yq77xb1jI%2FoUUZSXx4abdznY9WgnjY3T8Vqo1HQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220917T031437Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIATHWRG6ROIOPDPGU2%2F20220917%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Signature=b78fe883d3f853adb63e3d673b4596c5ff48fd155a338ab6f842cea378ecb34f  
 
 **NOTE**: This 2nd link doesn't tend to stay up much too long.     
-I think, it's time locked...meanking when a certain amount of time runs out;    
-then, the server no longer let's you view the page, anymore.     
+I think, it's 'time locked'...meaning when a certain amount of time runs out;    
+then, the web server no longer let's you view the page, anymore.     
 -(Also, only [index.html] is actually visible. All other files are shows as XML error message, instead.)-  
 
-That is that say whenever I tried typing in the Amazon assigned web site URL adress...;     
-the linked part did NOT show...; and, whenever I tried to access these resources on an individual basis...;     
-all that got displayed back was a similar worded XML document...?!     
+That is that say, whenever I tried typing in the Amazon assigned web site URL adress...;     
+the *linked* to parts did NOT show...;   
+furthermore, whenever I tried to access each these resources on an individual basis...having their own separate link;       
+all that got displayed back was an XML error message document...?!     
 
-> <Error>  
-> <Code>AccessDenied</Code>  
-> <Message>Access Denied</Message>  
-> <RequestId>AS0DGAEBFFNHPDWH</RequestId>  
-> <HostId>tZgHkgScBIyzAHG21hSXYFOg8TzpePIE08/gvWYeIc4fYonXSlU6NxrKvWMyOBKrDkMAQ8gJ0Gw=</HostId>  
+> <Error>   
+> <Code>AccessDenied</Code>    
+> <Message>Access Denied</Message>    
+> <RequestId>AS0DGAEBFFNHPDWH</RequestId>    
+> <HostId>tZgHkgScBIyzAHG21hSXYFOg8TzpePIE08/gvWYeIc4fYonXSlU6NxrKvWMyOBKrDkMAQ8gJ0Gw=</HostId>    
 > </Error>  
 
 Quite obviously, I must have left off some setting which is used to make all linked web pages/too, CSS public;    
@@ -62,5 +63,11 @@ I decided to leave up there 2 buckets I went and created just a few days back...
 ...Why? Because, I don't think Amazon is charging me very much to use these services;      
 if I had a lot of pages...and, was continually retrieving them...;    
 then, the charges, I bet, would be that much more...?!  
+
+----- 
+
+All charges can be checked by going to visit:  
+https://aws.amazon.com  
+...then, signing in to view the account.  
 
 

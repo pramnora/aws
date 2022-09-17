@@ -71,4 +71,8 @@ All charges can be checked by going to visit:
 https://aws.amazon.com  
 ...then, signing in to view the account.  
 
+-(**NOTE**: The above link will open up inside of the same web browser window...thus, hiding this web page.      
+If you wish to have the link open up in an external web browser window...;   
+then, when you click it.../also, press and hold down the [CTRL] key.)-  
+
 

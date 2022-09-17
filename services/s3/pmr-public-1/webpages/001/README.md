@@ -43,11 +43,11 @@ all that got displayed back was a similar worded XML document...?!
 > <HostId>tZgHkgScBIyzAHG21hSXYFOg8TzpePIE08/gvWYeIc4fYonXSlU6NxrKvWMyOBKrDkMAQ8gJ0Gw=</HostId>  
 > </Error>  
 
------  
-
 Quite obviously, I must have left off some setting which is used to make all linked web pages/too, CSS public;    
 but, right now, I really don't know how to go about correcting this...?   
 At some future point I will have to try doing this exercise, again.  
+
+-----  
 
 Right now, though, I've left up 2 buckets I went and create days back...   
 

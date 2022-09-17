@@ -50,4 +50,6 @@ therefore, it's necessary to keep on checking what is your current a/c balance. 
 
 - https://aws.amazon.com  
   
+Oh, and, another thing one must not forget is when NOT using the programming Cloud9 environment any longer;    
+you should take care to 'delete' it, completely...in order to stop the charges running up any further.   
 

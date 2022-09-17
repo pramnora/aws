@@ -31,12 +31,18 @@ It's very interesting...
 
 - there are an awful lot of docs to go and read through...;        
   meaning, at this 'beginner' stage of practice;     
-  it's doubtful that I'm using the platform in accordance with what are 'best practices'.    
+  it's doubtful that I'm using the platform in accordance with what are 'best' practices.    
 
-- experimenting with learning 'hands on'...is, I think, a much more worthwhile effort;        
-  than, just sitting back and reading books/or, watching videos about learning it    
-  (most of which one, then, immediately, tends to forget?!);    
-  because what you 'do'...; you are much less likely to ever forget.  
+- experimenting with learning 'hands on'...is, certainly, a much more worthwhile effort;        
+  than, is just merely sitting back and reading books/or, watching videos about learning it      
+  (most of which advice; one, immediately, tends to forget...?!);    
+  because what you 'do'...; then, you are much less likely to ever forget having done.    
+  
+  Just like 'riding a bike'/or else, 'learning to swim'...;     
+  watching others doesn't really work...;  
+  when it comes to, actually, learning to 'do it' yourself.    
+  
+  
   
   
 

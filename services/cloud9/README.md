@@ -42,7 +42,12 @@ It's very interesting...
   watching others doesn't really work...;  
   when it comes to, actually, learning to 'do it' yourself.    
   
+  -----
   
-  
+The only problem with experimenting with learning in these professional environments  
+is you are being 'charged' by the minute...;   
+therefore, it's necessary to keep on checking what is your current a/c balance. by going to see 'billing'...?
+
+- https://aws.amazon.com  
   
 

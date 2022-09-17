@@ -49,7 +49,7 @@ At some future point I will have to try doing this exercise, again.
 
 -----  
 
-Right now, though, I've left up 2 buckets I went and create days back...   
+I decided to leave up there4 2 buckets I went and created just a few days back...   
 
 > pmr-private-1   (stores 1 x .txt file)    
 > pmr-public-1    (stores 6 x .html files/1 x .css file) 

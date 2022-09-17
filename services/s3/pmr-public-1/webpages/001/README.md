@@ -40,7 +40,7 @@ At some future point I will have to try doing this exercise, again.
 Right now, though, I've left up 2 buckets I went and create days back...   
 
 > pmr-private-1   (stores 1 x .txt file)    
-> pmr-public-1    (stores 1 x .html file/1 x .css file) 
+> pmr-public-1    (stores 6 x .html files/1 x .css file) 
 
 ...Why? Because, I don't think Amazon is charging me very much to use these services;      
 if I had a lot of pages...and, was continually retrieving them...;    

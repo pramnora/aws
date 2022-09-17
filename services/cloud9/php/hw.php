@@ -15,10 +15,14 @@ instead, it said press CTRL+C to stop the server running.
 Next, I tried going to my own web browser window; and, typing in URL address: 
 0.0.0.0:8080
 ...and, that returned nothing (I figure, because the code is not running on my own home based computer);
-so, I tried typing in...  
-https://44.195.90.41/hw.php  
+so, I tried typing in both of the following URL's: 
+
+- https://44.195.90.41/
+- https://44.195.90.41/hw.php  
+
 ...and, that didnt work, neither...?  
-So, eventually, I gave up.../or, at least, temporarily; will return back to try, again...possibly, after reading more.  
+So, eventually, I gave up.../or, at least, temporarily;   
+will return back to try, again...possibly, after reading more.  
 
  Created: Sat 17 Sep 19:09 PM GMT  
  Updated: Sat 17 Sep 19:09 PM GMT

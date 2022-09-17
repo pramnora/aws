@@ -22,7 +22,7 @@ Single web page retrieval works perfectly fine.
 
 -----  
 
-However, when I tried breaking up the pages into being a series of 'linked' files';    
+However, when I tried breaking up the pages into being a series of separate 'linked' files';    
 
 css.01    
 

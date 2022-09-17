@@ -33,6 +33,10 @@ much to my own surprise, I was given a much 'shorter' URL address this time.
 
 - https://main.d22c176g16rd67.amplifyapp.com/ (Tue 130922 19:29 PM GMT/Deleted: Sat 170922 02:42 AM GMT)    
 
+I decided it might be far better to take the service down; especially, as I wasn't actually using it;    
+rather than keep the service being, constantly, 'up and running' which I never actually use;   
+and, thus, having a bill that's just needlessly running endlessly up and up...?!  
+
 -(PS: I noticed, too, that with each new deployment...;   
 inside of the Amazon 'billings' section...my a/c. is getting charged...;      
 got to 'watch' that particular section of their site really very carefully.)-   

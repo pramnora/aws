@@ -9,8 +9,8 @@ I created this bucket:
 
 ...which contains the following 2 folders:   
 
-- webpages  (stores 1 x web page)    
-- websites  (stores 1 x web site)    
+- webpages  (stores 1 x web page: index.html/with internal header stylesheet)      
+- websites  (stores 1 x web site: index.html, together with externally linked: 6 x .html web pages/5 x including index.html/plus, 1 .css file)      
 
 ...just a few day's back; with the intention to serve web pages up from there.    
  

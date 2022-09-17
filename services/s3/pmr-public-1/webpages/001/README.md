@@ -7,7 +7,7 @@ I created this bucket:
 
 > pmr-public-1  
 
-...which contains teh following 2 folders:   
+...which contains the following 2 folders:   
 
 - webpages  (stores 1 x web page)    
 - websites  (stores 1 x web site)    
@@ -49,7 +49,7 @@ At some future point I will have to try doing this exercise, again.
 
 -----  
 
-I decided to leave up there4 2 buckets I went and created just a few days back...   
+I decided to leave up there 2 buckets I went and created just a few days back...   
 
 > pmr-private-1   (stores 1 x .txt file)    
 > pmr-public-1    (stores 6 x .html files/1 x .css file) 

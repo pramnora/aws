@@ -1,7 +1,7 @@
 # aws/Amazon Web Services
 
 Created: *Tue 13th Sep 06:16 AM GMT*   
-Updated: *Tue 13th Sep 19:54 PM GMT*
+Updated: *Sat 17th Sep 02:43 AM GMT*
 
 -----
 
@@ -31,7 +31,7 @@ TEST 4: I stayed with the same web page above...; but, this time I selected 'mon
 which allowed me to select exactly which folder to display(so, no need for 'redirect' page, anymore);
 much to my own surprise, I was given a much 'shorter' URL address this time.
 
-- https://main.d22c176g16rd67.amplifyapp.com/ (130922 19:29 PM GMT/Current)    
+- https://main.d22c176g16rd67.amplifyapp.com/ (Tue 130922 19:29 PM GMT/Deleted: Sat 170922 02:42 AM GMT)    
 
 -(PS: I noticed, too, that with each new deployment...;   
 inside of the Amazon 'billings' section...my a/c. is getting charged...;      

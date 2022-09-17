@@ -5,7 +5,7 @@ Updated: Sat 17 Sep 2022 03:46 PM GMT
 
 Inside of...    
 
-> pmr-bucket-1    
+> pmr-private-1    
 
 I've only stored 1 x .txt file.    
 
